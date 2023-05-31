@@ -50,11 +50,18 @@ section {
     border-bottom: .1rem solid rgba(0, 0, 0, .2);
 }
 
-.logo {
+/* .logo {
     font-size: 2.5rem;
     color: var(--text-color);
     font-weight: 600;
     cursor: default;
+} */
+
+.logo-img img {
+    display: inline-block;
+    height: 78px;
+    width: auto;
+    border-radius: 0.8rem;
 }
 
 .navbar a {
